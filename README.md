@@ -1,4 +1,4 @@
-## System Name: Vacation Tracking System
+## Vacation Tracking System
 
 ### Vision:
 Replacing manual process of vacation requests by an automated rules-based validation system, for achieving the following goals:
