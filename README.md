@@ -26,7 +26,7 @@ Sometimes this manual process could take days.
 ### Constraints:
 1. Uses existing hardware and middleware may evoke unexpected problems related to legacy technology or servers, leading to difficulty in integration.
 ### Assumptions:
- The rules and employees date are avaliabe and well-documented
+ The rules and employees data are avaliabe and well-documented
 ### Actors and thier activites
 1. Employee: is the main user of the system. He uses the system to manage his/her vacation time.
 2. Manager: approves employee's request or rejects. Award time to subordinates.
