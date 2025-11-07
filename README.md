@@ -35,3 +35,4 @@ Sometimes this manual process could take days.
 ## Use Cases
 ### 1- Manage Time
 ### ERD Model
+<img width="1366" height="751" alt="VTS-Entities" src="https://github.com/user-attachments/assets/1c41b1a8-4d68-4b1a-b314-dc5c5bdc692b" />
