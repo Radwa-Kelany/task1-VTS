@@ -42,6 +42,7 @@ Sometimes this manual process could take days.
 ### 1- Manage Time
 ### 1-1 FlowCharts
 <img width="1161" height="731" alt="task1-ERD-FlowChart2 drawio" src="https://github.com/user-attachments/assets/9513b186-5a07-46af-81c8-609b98c69201" />
+
 ### 1-2 Sequence Diagrams
 <img width="1171" height="771" alt="task1-ERD-Sequence Diagram drawio" src="https://github.com/user-attachments/assets/432a4359-e526-47f9-8101-5e87e2075849" />
 
