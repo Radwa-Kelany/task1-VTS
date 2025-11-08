@@ -32,11 +32,15 @@ Sometimes this manual process could take days.
 2. Manager: approves employee's request or rejects. Award time to subordinates.
 3. HR ClerK: views employees time, entering or updating employee vacation data in the system. override leave records, manage locations
 4. System Admin: back up system logs.
-## Use Cases
-### 1- Manage Time
 ### ERD Model
 <img width="1366" height="751" alt="VTS-Entities" src="https://github.com/user-attachments/assets/1c41b1a8-4d68-4b1a-b314-dc5c5bdc692b" />
 
 ### Entities Relations Model
 <img width="1071" height="531" alt="task1-ERD-Entities Relations drawio" src="https://github.com/user-attachments/assets/886acb01-ca78-45bf-bbf7-906bb0ef107f" />
+
+## Use Cases
+### 1- Manage Time
+### 1-1 FlowCharts
+<img width="721" height="801" alt="task1-ERD-FlowChart drawio" src="https://github.com/user-attachments/assets/f8c55d60-dc84-4de4-96ed-a3eee8af4d21" />
+
 
