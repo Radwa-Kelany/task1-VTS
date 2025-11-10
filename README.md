@@ -41,15 +41,22 @@ Sometimes this manual process could take days.
 
 ## Use Cases
 ### 1- Manage Time
-### 1-1 FlowCharts
-<img width="1161" height="731" alt="task1-ERD-FlowChart2 drawio" src="https://github.com/user-attachments/assets/9513b186-5a07-46af-81c8-609b98c69201" />
-
-### 1-2 Sequence Diagrams
-<img width="1171" height="771" alt="task1-ERD-Sequence Diagram drawio" src="https://github.com/user-attachments/assets/432a4359-e526-47f9-8101-5e87e2075849" />
-
-<img width="1091" height="901" alt="task1-ERD-sequence-diagram2 drawio" src="https://github.com/user-attachments/assets/76388965-ca12-44c8-9e72-35c48ca078c2" />
+### 1-1 Submit Request
+<img width="1961" height="771" alt="VTS-submit request" src="https://github.com/user-attachments/assets/7f73e407-fdb9-4e6d-9734-a93599976ed6" />
 
 
+### 1-2 Approve/Reject Request
+<img width="1412" height="872" alt="VTS-approve request" src="https://github.com/user-attachments/assets/40662951-f53d-4ed3-8673-8fe343e70288" />
+
+
+### 1-3 Cancel Approved Request
+<img width="1412" height="872" alt="VTS-approve request" src="https://github.com/user-attachments/assets/089a17e2-70db-4159-8de1-8e3e0f0e23da" />
+
+### 1-4 Withdraw Pending Request
+<img width="1826" height="792" alt="VTS-withdraw request" src="https://github.com/user-attachments/assets/3ea36bb2-0564-4fda-a11e-4c52c95c37b1" />
+
+### 1-5 Edit Pending Request
+<img width="1941" height="1101" alt="VTS-edit request" src="https://github.com/user-attachments/assets/6e1f3817-aeca-4403-b260-19ccd4a23c29" />
 
 ## UI of Requests
 ### Employee Page
