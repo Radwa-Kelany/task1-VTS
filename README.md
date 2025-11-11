@@ -43,33 +43,39 @@ Sometimes this manual process could take days.
 ## Use Cases
 ### 1- Manage Time
 ### 1-1 Submit Request
-<img width="1961" height="801" alt="VTS-submit request" src="https://github.com/user-attachments/assets/4653af67-0cfe-4dd1-94cc-71cef5cc2843" />
+<img width="1961" height="771" alt="VTS-submit request" src="https://github.com/user-attachments/assets/6b22f28e-92d4-42e7-a6aa-8af0e804e860" />
+
 
 
 
 ### 1-2 Approve/Reject Request
-<img width="1411" height="871" alt="VTS-approve request" src="https://github.com/user-attachments/assets/cc279d51-5498-4132-8881-6aceb73f683c" />
+<img width="1611" height="871" alt="VTS-approve request" src="https://github.com/user-attachments/assets/f026a0cd-9356-45c6-838f-d457fd3f8f1c" />
+
 
 
 
 ### 1-3 Cancel Approved Request
-<img width="1846" height="911" alt="VTS-cancel request" src="https://github.com/user-attachments/assets/0a36500a-1e57-4c3a-8f14-ab059329b84a" />
+<img width="1846" height="911" alt="VTS-cancel request" src="https://github.com/user-attachments/assets/6b4cd146-737e-4683-b4f8-7f6153faf61c" />
+
 
 
 ### 1-4 Withdraw Pending Request
-<img width="1826" height="791" alt="VTS-withdraw request" src="https://github.com/user-attachments/assets/ea5f8f14-4bce-4f76-8b84-5f707d80df10" />
+<img width="1711" height="791" alt="VTS-withdraw request" src="https://github.com/user-attachments/assets/4aca1860-99b8-48c9-8db6-206e757a898a" />
 
 
 ### 1-5 Edit Pending Request
-<img width="1941" height="1101" alt="VTS-edit request" src="https://github.com/user-attachments/assets/fd96399f-0b75-44a9-b265-484258e077db" />
+<img width="1941" height="1101" alt="VTS-edit request" src="https://github.com/user-attachments/assets/39249a85-3926-4b8d-a57e-9a2a802d81d1" />
+
 
 
 ## UI of Requests
 ### Employee Page
-<img width="1893" height="504" alt="employee-requests" src="https://github.com/user-attachments/assets/9f2c463b-5e20-47e4-a11f-a8bc7ef7c153" />
+<img width="1893" height="504" alt="UI_employee-requests" src="https://github.com/user-attachments/assets/1355bad9-83e5-406a-b9d8-04b99c6a8d8e" />
+
 
 ### Manager Page
-<img width="1894" height="678" alt="manager-requests" src="https://github.com/user-attachments/assets/ef8a0ba3-9bc3-45f3-aa28-18861b6cd5e0" />
+<img width="1894" height="678" alt="UI_manager-requests" src="https://github.com/user-attachments/assets/ebca8fb7-87bc-4b66-a434-3ad85b6193a4" />
+
 
 ## State Machine Diagram of Vacation Request
 
